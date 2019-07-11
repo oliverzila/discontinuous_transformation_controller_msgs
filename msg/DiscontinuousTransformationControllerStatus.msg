@@ -3,3 +3,4 @@ geometry_msgs/Pose2D poseReference
 geometry_msgs/Pose2D pose
 float64[2] ur
 float64[2] v
+float64[2] torque

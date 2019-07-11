@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/carlos/catkin_ws/devel/include",
+        "/opt/ros/melodic/include",
+        "/home/carlos/catkin_ws/src/arc_odometry/include",
+        "/home/carlos/catkin_ws/src/computed_torque_controller/include",
+        "/home/carlos/catkin_ws/src/discontinuous_transformation_controller/include",
+        "/home/carlos/catkin_ws/src/le_simulator/include",
+        "/home/carlos/catkin_ws/src/linearizing_controllers/include",
+        "/home/carlos/catkin_ws/src/non_smooth_pose_controller/include",
+        "/home/carlos/catkin_ws/src/pid_plus_gravity_controller/include",
+        "/home/carlos/catkin_ws/src/pose_ref/include",
+        "/home/carlos/catkin_ws/src/rma_controller/include",
+        "/home/carlos/catkin_ws/src/twil/twil_gazebo_ros_control/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
